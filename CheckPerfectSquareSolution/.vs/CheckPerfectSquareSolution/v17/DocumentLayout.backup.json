@@ -1,0 +1,104 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\LT_Web\\Bai_1\\CheckPerfectSquareSolution\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{872ED1E1-CA1D-4724-8AE4-EE62A10B002E}|WinForm_CheckSquare\\WinForm_CheckSquare.csproj|e:\\lt_web\\bai_1\\checkperfectsquaresolution\\winform_checksquare\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{872ED1E1-CA1D-4724-8AE4-EE62A10B002E}|WinForm_CheckSquare\\WinForm_CheckSquare.csproj|solutionrelative:winform_checksquare\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6851273D-80DB-4AC2-8D25-17DF4CABC7F3}|ConsoleApp_CheckSquare\\ConsoleApp_CheckSquare.csproj|e:\\lt_web\\bai_1\\checkperfectsquaresolution\\consoleapp_checksquare\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6851273D-80DB-4AC2-8D25-17DF4CABC7F3}|ConsoleApp_CheckSquare\\ConsoleApp_CheckSquare.csproj|solutionrelative:consoleapp_checksquare\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9995704-ADC4-48BF-8F90-C869EE6FB0BE}|MathLibrary\\MathLibrary.csproj|E:\\LT_Web\\Bai_1\\CheckPerfectSquareSolution\\mathlibrary\\numberchecks.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9995704-ADC4-48BF-8F90-C869EE6FB0BE}|MathLibrary\\MathLibrary.csproj|solutionrelative:mathlibrary\\numberchecks.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CEAB5959-008C-43C2-863F-373971EDC672}|WebApp_CheckSquare\\WebApp_CheckSquare.csproj|e:\\lt_web\\bai_1\\checkperfectsquaresolution\\webapp_checksquare\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CEAB5959-008C-43C2-863F-373971EDC672}|WebApp_CheckSquare\\WebApp_CheckSquare.csproj|solutionrelative:webapp_checksquare\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CEAB5959-008C-43C2-863F-373971EDC672}|WebApp_CheckSquare\\WebApp_CheckSquare.csproj|e:\\lt_web\\bai_1\\checkperfectsquaresolution\\webapp_checksquare\\api.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CEAB5959-008C-43C2-863F-373971EDC672}|WebApp_CheckSquare\\WebApp_CheckSquare.csproj|solutionrelative:webapp_checksquare\\api.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "E:\\LT_Web\\Bai_1\\CheckPerfectSquareSolution\\WinForm_CheckSquare\\Form1.cs",
+              "RelativeDocumentMoniker": "WinForm_CheckSquare\\Form1.cs",
+              "ToolTip": "E:\\LT_Web\\Bai_1\\CheckPerfectSquareSolution\\WinForm_CheckSquare\\Form1.cs [Design]",
+              "RelativeToolTip": "WinForm_CheckSquare\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-28T10:15:37.248Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\LT_Web\\Bai_1\\CheckPerfectSquareSolution\\ConsoleApp_CheckSquare\\Program.cs",
+              "RelativeDocumentMoniker": "ConsoleApp_CheckSquare\\Program.cs",
+              "ToolTip": "E:\\LT_Web\\Bai_1\\CheckPerfectSquareSolution\\ConsoleApp_CheckSquare\\Program.cs",
+              "RelativeToolTip": "ConsoleApp_CheckSquare\\Program.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAxwBcAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-28T10:08:31.807Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "api.aspx.cs",
+              "DocumentMoniker": "E:\\LT_Web\\Bai_1\\CheckPerfectSquareSolution\\WebApp_CheckSquare\\api.aspx.cs",
+              "RelativeDocumentMoniker": "WebApp_CheckSquare\\api.aspx.cs",
+              "ToolTip": "E:\\LT_Web\\Bai_1\\CheckPerfectSquareSolution\\WebApp_CheckSquare\\api.aspx.cs",
+              "RelativeToolTip": "WebApp_CheckSquare\\api.aspx.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAmwB8AAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-28T08:33:46.213Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "index.html",
+              "DocumentMoniker": "E:\\LT_Web\\Bai_1\\CheckPerfectSquareSolution\\WebApp_CheckSquare\\index.html",
+              "RelativeDocumentMoniker": "WebApp_CheckSquare\\index.html",
+              "ToolTip": "E:\\LT_Web\\Bai_1\\CheckPerfectSquareSolution\\WebApp_CheckSquare\\index.html",
+              "RelativeToolTip": "WebApp_CheckSquare\\index.html",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAACgAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-09-28T08:31:42.225Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "NumberChecks.cs",
+              "DocumentMoniker": "E:\\LT_Web\\Bai_1\\CheckPerfectSquareSolution\\MathLibrary\\NumberChecks.cs",
+              "RelativeDocumentMoniker": "MathLibrary\\NumberChecks.cs",
+              "ToolTip": "E:\\LT_Web\\Bai_1\\CheckPerfectSquareSolution\\MathLibrary\\NumberChecks.cs",
+              "RelativeToolTip": "MathLibrary\\NumberChecks.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-27T16:14:48.896Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

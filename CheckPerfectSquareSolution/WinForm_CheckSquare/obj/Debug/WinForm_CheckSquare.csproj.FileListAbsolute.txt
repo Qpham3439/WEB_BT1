@@ -1,0 +1,13 @@
+E:\LT_Web\Bai_1\CheckPerfectSquareSolution\WinForm_CheckSquare\bin\Debug\WinForm_CheckSquare.exe.config
+E:\LT_Web\Bai_1\CheckPerfectSquareSolution\WinForm_CheckSquare\bin\Debug\WinForm_CheckSquare.exe
+E:\LT_Web\Bai_1\CheckPerfectSquareSolution\WinForm_CheckSquare\bin\Debug\WinForm_CheckSquare.pdb
+E:\LT_Web\Bai_1\CheckPerfectSquareSolution\WinForm_CheckSquare\bin\Debug\MathLibrary.dll
+E:\LT_Web\Bai_1\CheckPerfectSquareSolution\WinForm_CheckSquare\bin\Debug\MathLibrary.pdb
+E:\LT_Web\Bai_1\CheckPerfectSquareSolution\WinForm_CheckSquare\obj\Debug\WinForm_CheckSquare.csproj.AssemblyReference.cache
+E:\LT_Web\Bai_1\CheckPerfectSquareSolution\WinForm_CheckSquare\obj\Debug\WinForm_CheckSquare.Form1.resources
+E:\LT_Web\Bai_1\CheckPerfectSquareSolution\WinForm_CheckSquare\obj\Debug\WinForm_CheckSquare.Properties.Resources.resources
+E:\LT_Web\Bai_1\CheckPerfectSquareSolution\WinForm_CheckSquare\obj\Debug\WinForm_CheckSquare.csproj.GenerateResource.cache
+E:\LT_Web\Bai_1\CheckPerfectSquareSolution\WinForm_CheckSquare\obj\Debug\WinForm_CheckSquare.csproj.CoreCompileInputs.cache
+E:\LT_Web\Bai_1\CheckPerfectSquareSolution\WinForm_CheckSquare\obj\Debug\WinForm_.0F40E609.Up2Date
+E:\LT_Web\Bai_1\CheckPerfectSquareSolution\WinForm_CheckSquare\obj\Debug\WinForm_CheckSquare.exe
+E:\LT_Web\Bai_1\CheckPerfectSquareSolution\WinForm_CheckSquare\obj\Debug\WinForm_CheckSquare.pdb
