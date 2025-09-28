@@ -1,6 +1,0 @@
-E:\LT_Web\Bai_1\CheckPerfectSquareSolution\MathLibrary\bin\Release\MathLibrary.dll
-E:\LT_Web\Bai_1\CheckPerfectSquareSolution\MathLibrary\bin\Release\MathLibrary.pdb
-E:\LT_Web\Bai_1\CheckPerfectSquareSolution\MathLibrary\obj\Release\MathLibrary.csproj.AssemblyReference.cache
-E:\LT_Web\Bai_1\CheckPerfectSquareSolution\MathLibrary\obj\Release\MathLibrary.csproj.CoreCompileInputs.cache
-E:\LT_Web\Bai_1\CheckPerfectSquareSolution\MathLibrary\obj\Release\MathLibrary.dll
-E:\LT_Web\Bai_1\CheckPerfectSquareSolution\MathLibrary\obj\Release\MathLibrary.pdb
